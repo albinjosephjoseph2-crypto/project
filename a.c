@@ -3,3 +3,4 @@ void main(){
 printf("hii");
   printf("hello");
 }
+bro logout before u leave the lab 
